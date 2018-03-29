@@ -10,3 +10,6 @@ INSERT INTO books (title, year, series_id) VALUES ("Implosion", 2015, 2);
 
 INSERT INTO subgenres (name) VALUES ("magic");
 INSERT INTO subgenres (name) VALUES ("space");
+
+INSERT INTO authors (name) VALUES ("Hillary Mantel");
+INSERT INTO authors (name) VALUES ("Ursula K. Le Guin");

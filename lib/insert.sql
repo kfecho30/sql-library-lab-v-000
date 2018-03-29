@@ -18,7 +18,7 @@ INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Vic
 INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Kreature", "elf", "Death to muggles", 1, 1);
 INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Hermione", "human", "Intelligence above all", 1, 1);
 INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Hagrid", "giant", "Kindness can be found in every soul", 1, 1);
-INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Victor", "human", "Magic is out there", 1, 1);
-INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Victor", "human", "Magic is out there", 1, 1);
-INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Victor", "human", "Magic is out there", 1, 1);
-INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Victor", "human", "Magic is out there", 1, 1);
+INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Spock", "human", "LOGIC", 2, 2);
+INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Spot", "dog", "Woof!", 2, 2);
+INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Luke", "human", "Magic is out there", 2, 2);
+INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Obbi Wan", "human", "Magic is out there", 2, 2);

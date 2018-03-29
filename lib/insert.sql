@@ -13,3 +13,12 @@ INSERT INTO subgenres (name) VALUES ("space");
 
 INSERT INTO authors (name) VALUES ("Hillary Mantel");
 INSERT INTO authors (name) VALUES ("Ursula K. Le Guin");
+
+INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Victor", "human", "Magic is out there", 1, 1);
+INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Kreature", "elf", "Death to muggles", 1, 1);
+INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Hermione", "human", "Intelligence above all", 1, 1);
+INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Hagrid", "giant", "Kindness can be found in every soul", 1, 1);
+INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Victor", "human", "Magic is out there", 1, 1);
+INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Victor", "human", "Magic is out there", 1, 1);
+INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Victor", "human", "Magic is out there", 1, 1);
+INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Victor", "human", "Magic is out there", 1, 1);

@@ -7,3 +7,6 @@ INSERT INTO books (title, year, series_id) VALUES ("A Conjuring of Magic", 2017,
 INSERT INTO books (title, year, series_id) VALUES ("Odyssey", 2013, 2);
 INSERT INTO books (title, year, series_id) VALUES ("Landing", 2014, 2);
 INSERT INTO books (title, year, series_id) VALUES ("Implosion", 2015, 2);
+
+INSERT INTO subgenres (name) VALUES ("magic");
+INSERT INTO subgenres (name) VALUES ("space");

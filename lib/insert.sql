@@ -20,5 +20,5 @@ INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Her
 INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Hagrid", "giant", "Kindness can be found in every soul", 1, 1);
 INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Spock", "human", "LOGIC", 2, 2);
 INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Spot", "dog", "Woof!", 2, 2);
-INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Luke", "human", "Magic is out there", 2, 2);
-INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Obbi Wan", "human", "Magic is out there", 2, 2);
+INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Luke", "human", "Pow", 2, 2);
+INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ("Obbi Wan", "human", "Boom", 2, 2);
